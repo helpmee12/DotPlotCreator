@@ -12,10 +12,3 @@ This Python script allows users to input numerical data and generates a dot plot
 
 - Python 3.x
 - `matplotlib` and `numpy` libraries (See `requirements.txt`)
-
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/dotplot-project.git
